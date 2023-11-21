@@ -2,3 +2,6 @@ the first test row
 the secong test row
 # the third row
 # the 4th row
+
+new record for git gui1
+new recired for gir gui2
