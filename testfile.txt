@@ -14,3 +14,4 @@ add commit for im master
 add recored in branch
 
 for tag only
+for stash
