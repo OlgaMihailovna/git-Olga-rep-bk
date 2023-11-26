@@ -13,3 +13,4 @@ new feature rec 4 for the second commit
 add commit for im master
 add recored in branch
 
+for tag only
