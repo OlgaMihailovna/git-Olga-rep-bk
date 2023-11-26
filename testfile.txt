@@ -3,7 +3,6 @@ the secong test row
 # the third row
 
 new record for git gui1
-new recired for gir gui2
 -----------------
 new feature rec 1
 new feature rec 2
@@ -15,3 +14,4 @@ add recored in branch
 
 for tag only
 for stash
+
